@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Mirobod city",
+		"price": "500",
+		"detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+		"image": "./r1.png"
+	},
+	{
+		"name": "Tashkent city",
+		"price": "1000",
+		"detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+		"image": "./r2.png"
+	},
+	{
+		"name": "Sergeli city",
+		"price": "200",
+		"detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+		"image": "./r3.png"
+	},
+	{
+		"name": "Yunsobod city",
+		"price": "600",
+		"detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+		"image": "./r1.png"
+	},
+	{
+		"name": "Yangi-hayot",
+		"price": "300",
+		"detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+		"image": "./r2.png"
+	},
+	{
+		"name": "Citralan Puri Serang",
+		"price": "35,853",
+		"detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+		"image": "./r3.png"
+	}
+]
